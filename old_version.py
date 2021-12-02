@@ -6,6 +6,8 @@ If you hate ugly code made by a sophomore in high school during one 48-minute cl
 - Silicontent
 """
 
+# OLD VERSION OF THE GAME
+
 import random
 import time
 import math
